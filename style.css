@@ -1,0 +1,25 @@
+#logo{
+    width: 300px;
+    height: 300px;
+}
+body{
+    background-color: plum;
+    color:lightgreen;
+    text-align: center;
+}
+#mn{
+    width:160px;
+    height:55px;
+    font-size: 30px;
+    text-align: center;
+}
+.image-responsive{
+    width:500px;
+    height:500px;
+    border-radius: 5px;
+    border-color: red;
+}
+h5{
+    
+    font-size: 20px;
+}
